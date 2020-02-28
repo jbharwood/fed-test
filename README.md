@@ -1,4 +1,4 @@
-# Front-end Development Skill Assesment
+# Wwweb Ltd Front-end Development Skill Assesment
 This test is designed to assess a candidate's ability (or a team's abilities) to accurately implement a responsive web design using our common technologies and platforms—respectively, HTML, CSS, and JavaScript. We look for attention to detail, ability to gracefully fill in the gaps when possible yet know when to ask for clarification, and adherence to our own (and industry) best practices. Candidates are expected to complete the test using our starter repos, adhering to a few rules and instructions below.
 
 PLEASE NOTE: We are a Mac house with some support for Linux.
